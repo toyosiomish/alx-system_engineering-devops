@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+X . 
+touch mkdir -m751 my_dir 
